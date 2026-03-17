@@ -23,7 +23,7 @@
 ---
 
 ### // ENCRYPTED_VAULT
-* **KaRmA-Downloader:** Advanced multi-engine media extraction logic.
+* **KaRmA-Downloader: Asynchronous framework for API integration and metadata study.
 * **Terminal Mirror:** Live system telemetry and remote dashboard via Flask.
 * **KaRmA-Music:** High-fidelity audio processing and stream integration.
 
