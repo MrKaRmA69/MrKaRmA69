@@ -31,9 +31,10 @@
 
 ### // ANALYTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKaRmA69&show_icons=true&theme=dark&hide_border=true&title_color=F81C1C&icon_color=F81C1C&text_color=FFFFFF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKaRmA69&layout=compact&theme=dark&hide_border=true&title_color=F81C1C&text_color=FFFFFF" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrKaRmA69&show_icons=true&theme=dark&hide_border=true&title_color=F81C1C&icon_color=F81C1C&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKaRmA69&layout=compact&theme=dark&hide_border=true&title_color=F81C1C&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" height="150" />
 </p>
+
 
 ---
 
