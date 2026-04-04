@@ -28,10 +28,12 @@
 
 ---
 
+---
+
 ### [//] ANALYTICS_DIAGNOSTICS
-<div align="center">
-  <img src="https://metrics.lecoq.io/MrKaRmA69?template=terminal&base.header=0&base.activity=0&base.community=0&languages=1&languages.details=percentage&languages.ignored=html,css&config.timezone=UTC" alt="Metrics Terminal" width="500" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKaRmA69&bg_color=0D1117&color=F81C1C&line=F81C1C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/MrKaRmA69/KaRmA-Downloader?style=for-the-badge&color=F81C1C&labelColor=111111" />
@@ -40,6 +42,7 @@
 </p>
 
 ---
+
 
 ### [//] SYSTEM_LOGS
 ```text
