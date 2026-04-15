@@ -187,13 +187,13 @@ I’m open to collaborating on:
 
 <p>
 
-<a href="https://t.me/FuckSoicety">
-<img src="https://img.shields.io/badge/Telegram-@FuckSoicety-36BCF7?style=for-the-badge&logo=telegram">
+<a href="https://t.me/Sterresi">
+<img src="https://img.shields.io/badge/Telegram-@Sterresi-36BCF7?style=for-the-badge&logo=telegram">
 </a>
 <br>
 
-<a href="https://t.me/Dr_VIIX">
-<img src="https://img.shields.io/badge/Channel-@Dr_VIIX-red?style=for-the-badge&logo=telegram">
+<a href="https://t.me/FuckSoicety">
+<img src="https://img.shields.io/badge/Channel-@FuckSoicety-red?style=for-the-badge&logo=telegram">
 </a>
 <br>
 
