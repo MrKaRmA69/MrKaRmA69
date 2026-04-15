@@ -1,53 +1,47 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F81C1C&center=true&vCenter=true&width=650&lines=SYSTEM+RESTORED:+MR+KARMA;CYBERSECURITY+STUDY;BOT+ARCHITECT;PRIVACY+ENFORCED" alt="Typing SVG" />
-</div>
+# Hey There!, I am Mr KaRmA
 
----
+「 **Software Engineer & Cybersecurity Researcher** 」
 
-### [//] SYSTEM_DIRECTIVES
-* **USER_ID:** `Fsociety` / `Mr KaRmA`
-* **ENVIRONMENT:** `Kali_Linux` // `Arch_Linux` // `Termux`
-* **RUNTIME:** `Python 3.11+` // `Asynchronous_Engines`
-* **PRIMARY_LIBS:** `Telethon` | `Pyrogram` | `Aiogram` | `Flask`
-* **SECURITY_FOCUS:** `Automation` | `API_Pentesting` | `Network_Analysis`
-
----
-
-### [//] PROJECT_VAULT_STATUS
-> **CAUTION:** Accessing encrypted repositories...
-
-* **KaRmA-Downloader [v1.2.0]**
-  * *Status:* `STABLE` // `PRIVATE_REVIEW`
-  * *Focus:* Multi-engine media extraction & metadata archiving.
-* **Terminal Mirror [v1.0.4]**
-  * *Status:* `ACTIVE`
-  * *Focus:* Live system telemetry and remote dashboarding via `zrok`.
-* **KaRmA-Music [v0.9.1]**
-  * *Status:* `DEVELOPMENT`
-  * *Focus:* High-fidelity audio processing and YouTube stream integration.
-
----
-
----
-
-### [//] ANALYTICS_DIAGNOSTICS
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKaRmA69&bg_color=0D1117&color=F81C1C&line=F81C1C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+「 **Focused on Asynchronous Systems, Network Security, and Automation Infrastructure** 」
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/MrKaRmA69/KaRmA-Downloader?style=for-the-badge&color=F81C1C&labelColor=111111" />
-  <img src="https://img.shields.io/github/commit-activity/m/MrKaRmA69/KaRmA-Downloader?style=for-the-badge&color=F81C1C&labelColor=111111" />
-  <img src="https://img.shields.io/github/repo-size/MrKaRmA69/KaRmA-Downloader?style=for-the-badge&color=F81C1C&labelColor=111111" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKaRmA69&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%" />
 </p>
 
----
+### 🔧 What I Work On
 
+* **Asynchronous Frameworks:** Building high-performance Python engines for media extraction and metadata processing.
+* **Security Research:** Developing automated tools for network analysis, API pentesting, and privacy enforcement.
+* **Remote Infrastructure:** Implementing secure system telemetry and remote dashboarding using `zrok` and tunneling protocols.
+* **Data Management:** Architecting scalable archiving systems with a focus on high-fidelity processing and metadata integrity.
 
-### [//] SYSTEM_LOGS
-```text
-[OK] Initializing KaRmA Integration Framework...
-[OK] Loading Cryptographic Modules...
-[OK] Establishing Secure Tunnel via zrok...
-[OK] Privacy Protocols: ACTIVE
-[OK] Connection: ENCRYPTED
+### 🧠 Interests
+
+* **Network Privacy:** Exploring decentralized communication and encrypted data tunnels.
+* **Automation at Scale:** Optimizing asynchronous workloads for large-scale data retrieval.
+* **System Hardening:** Researching defensive security measures and automated threat detection.
+* **Embedded Security:** Hardware-based security research and HID-based automation.
+
+### 🛠 Technologies & Tools
+
+`python` | `linux (kali/arch)` | `telethon` | `pyrogram` | `aiogram` | `docker` | `git` | `flask` | `nmap` | `zrok`
+
+### 🚀 Areas of Work
+
+* **Automation Engines:** Designing multi-engine frameworks for digital asset management.
+* **Security Tooling:** Building wrappers and profiles for network auditing and vulnerability assessment.
+* **Telemetry Systems:** Live system monitoring and dashboarding for distributed environments.
+* **API Integration:** Deep integration with Telegram and YouTube APIs for seamless data flow.
+
+### 🤝 Collaboration
+
+I'm open to collaborating on:
+* Advanced automation and asynchronous frameworks.
+* Open-source cybersecurity tools and network auditing projects.
+* Privacy-focused communication platforms.
+
+### 📫 Contact
+
+⚡ **Building secure, high-performance automation systems.**
+
+[Telegram](https://t.me/FuckSoicety) | [Channel](https://t.me/Dr_VIIX)
