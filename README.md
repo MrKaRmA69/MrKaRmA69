@@ -203,13 +203,7 @@ I’m open to collaborating on:
 </a>
 <br>
 
-</p>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/divider_moving_neon_gradient.svg)](https://github.com/MrKaRmA69)
-<p align="center">
-⚡ Building secure, high-performance automation systems and asynchronous architectures
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
+<a href="https://www.instagram.com/4mir69_/">
+<img src="https://img.shields.io/badge/Instagram-4mir69__-E4405F?style=for-the-badge&logo=instagram">
+</a>
 </p>
