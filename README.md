@@ -13,7 +13,7 @@
 
 <p align="center">
 <samp>
-「 Software Engineer based in <b>Turkey</b>  &#x1f1f9;&#x1f1f7; 」  
+「 Software Engineer based in <b>Iran</b>  &#x1f1ee;&#x1f1f7; 」  
 </samp>
 </p>
 
