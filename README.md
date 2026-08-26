@@ -85,12 +85,9 @@ A focused media extraction and download project. It is built around a simple pri
 
 ## GitHub activity
 
-<div align="center">
+Recent commits, contributions, and pinned work are available directly on [my GitHub profile](https://github.com/MrKaRmA69).
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrKaRmA69&show_icons=true&hide_title=true&hide_border=true&bg_color=09090B&text_color=D1D5DB&icon_color=EF4444&title_color=F87171&ring_color=B91C1C" alt="Mr KaRmA GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=MrKaRmA69&hide_border=true&background=09090B&ring=B91C1C&fire=EF4444&currStreakLabel=F87171&sideLabels=D1D5DB&dates=71717A&sideNums=FAFAFA&currStreakNum=FAFAFA" alt="Mr KaRmA contribution streak" />
-
-</div>
+[View all repositories →](https://github.com/MrKaRmA69?tab=repositories)
 
 ## Open to
 
