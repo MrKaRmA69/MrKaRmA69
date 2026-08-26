@@ -1,0 +1,12 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mr KaRmA</title>
+  <desc id="desc">Software Engineer, Automation Systems, Python</desc>
+  <rect width="1200" height="220" fill="#09090B"/>
+  <rect x="0" y="0" width="12" height="220" fill="#B91C1C"/>
+  <rect x="12" y="0" width="1" height="220" fill="#EF4444" opacity="0.8"/>
+  <path d="M860 0H1200V220H1000L860 80V0Z" fill="#18181B"/>
+  <path d="M1000 220H1200V90L1070 220H1000Z" fill="#7F1D1D" opacity="0.5"/>
+  <text x="66" y="101" fill="#FAFAFA" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Mr KaRmA</text>
+  <text x="70" y="144" fill="#F87171" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="3">SOFTWARE ENGINEER · AUTOMATION SYSTEMS · PYTHON</text>
+  <line x1="70" y1="169" x2="454" y2="169" stroke="#B91C1C" stroke-width="3"/>
+</svg>
